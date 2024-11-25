@@ -1,0 +1,16 @@
+3.
+A) A função fopen pode ser utilizada de várias maneiras, como:
+
+- "r" , para leitura do arquivo.
+- "w", para escrever no arquivo.
+- "a", para concatenar novo conteudo no final do arquivo, se não tiver conteudo ele cria um arquivo vazio.
+- "r+", para leitura e escrita, se tiver conteudo prévio ele é preservado.
+- "w+", para leitura e escrita, se tiver conteudo prévio ele é apagado.
+- "a+", para concatenar e escrever, se já tiver conteudo ele é mantido e as adições são feitas no final do arquivo.
+
+B)
+
+-fgets: inserir no arquivo caracteres.
+-fprintf: printa o conteudo como o printf, porem é necessario indicar o stream.
+-fread: lê blocos de tamanho definido e retorna a quantidade de blocos lidos.
+-fwrite: escreve até uma quantidade x de blocos de tamanho definido e retorna a quantidade de blocos escritos.

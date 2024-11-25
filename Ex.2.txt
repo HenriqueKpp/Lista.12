@@ -1,0 +1,8 @@
+2.
+
+A) Libera a memória alocada, ponteiro se torna nulo.
+B)Pode ser utilizado, após alocar outro endereço novamente.
+C)Não apagar a memória alocada.
+D)Não retornará nada, ponteiro se manterá NULO.
+E)Ela aloca uma região de memória e zera toda a área alocada.
+F) Malloc e calloc alocam uma região de memória, porém somente o calloc inicializa a memoria alocada a zero.

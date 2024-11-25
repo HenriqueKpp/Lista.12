@@ -1,0 +1,9 @@
+5)
+
+As saidas só seram alteradas na presença de "++" ou "--", logo:
+
+a:3
+b:2
+c:2
+d:4
+e:6

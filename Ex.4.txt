@@ -1,0 +1,7 @@
+4.
+
+Dependendo da entrada pode acontecer várias saídas diferentes. 
+
+-Caso a variavel A seja maior que B ou A seja menor que 0, a saida será a divisão inteira entre b e a (b/a) juntamente com 2 casas decimais igualadas a zero.
+
+-Se não, a saida será a divisão inteira entre A e B (a/b) juntamente com 2 casas decimais nulas.
